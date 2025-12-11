@@ -4,3 +4,5 @@
 Практика 2: Анализ требований https://docs.google.com/spreadsheets/d/1_bjCSHXbCbi0z8QSpMhQ1rg0niP8n5nInKVib9Iq6r8/edit?gid=0#gid=0
 
 Практика 3: Эквивалентное разбиение https://docs.google.com/spreadsheets/d/1rIwvFPGiRRHuZTQrJZO5_fosDhYurvfbHfpGuOqTOtE/edit?gid=0#gid=0
+
+Практика 4: Попарное тестирование https://docs.google.com/spreadsheets/d/173CJ9whHt8BO-eZ_Fny2y2YmDJU_0bEna_LmieeK09Y/edit?usp=sharing
