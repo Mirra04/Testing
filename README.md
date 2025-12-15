@@ -6,3 +6,5 @@
 Практика 3: Эквивалентное разбиение https://docs.google.com/spreadsheets/d/1rIwvFPGiRRHuZTQrJZO5_fosDhYurvfbHfpGuOqTOtE/edit?gid=0#gid=0
 
 Практика 4: Попарное тестирование https://docs.google.com/spreadsheets/d/173CJ9whHt8BO-eZ_Fny2y2YmDJU_0bEna_LmieeK09Y/edit?usp=sharing
+
+Практика 5: Таблица принятия решений https://docs.google.com/spreadsheets/d/1ny-FDTy6a8zcw__7lY8e3HN908JURpsaotj-V7OD07U/edit?gid=0#gid=0
