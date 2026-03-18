@@ -9,4 +9,4 @@
 
 Практика 5: Таблица принятия решений https://docs.google.com/spreadsheets/d/1ny-FDTy6a8zcw__7lY8e3HN908JURpsaotj-V7OD07U/edit?gid=0#gid=0
 
-Практика 6: Создание Чек-листа https://docs.google.com/spreadsheets/d/1HRhyGcTnhLFxSqz18B-HVdT0IIxs36gRggx49WMUhf0/edit?gid=694982429#gid=694982429
+Практика 6, 7, 8: Чек-лист, тест-кейсы, баг-репорты https://docs.google.com/spreadsheets/d/1HRhyGcTnhLFxSqz18B-HVdT0IIxs36gRggx49WMUhf0/edit?gid=694982429#gid=694982429
