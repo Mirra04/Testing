@@ -15,4 +15,4 @@
 
 Практика 10: Создание простой веб-страницы https://docs.google.com/spreadsheets/d/1DtRlq8ZigVRSA6I2Z4AGmsuyfJBXJZ-O01SLsFNeb34/edit?usp=sharing
 
-*Вя папка: https://drive.google.com/drive/folders/1FAp6t8CgWaUQ2UV9wnF__2VtG43u_QVa?usp=sharing
+*Вcя папка: https://drive.google.com/drive/folders/1FAp6t8CgWaUQ2UV9wnF__2VtG43u_QVa?usp=sharing
